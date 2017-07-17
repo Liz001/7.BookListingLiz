@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin_search_button">16dp</dimen>
+    <dimen name="margin_top">50dp</dimen>
+    <dimen name="margin_left_right">30dp</dimen>
+    <dimen name="paddingLeft">6dp</dimen>
+    <dimen name="marginLinearLayout">16dp</dimen>
+    <dimen name="padding_image">6dp</dimen>
+    <dimen name="radius_corner">10dp</dimen>
+    <dimen name="button_padding">10dp</dimen>
+
+    <dimen name="title">16sp</dimen>
+    <dimen name="author">12sp</dimen>
+    <dimen name="textSizeTitle">16sp</dimen>
+    <dimen name="textSizeRest">12sp</dimen>
+
+</resources>
